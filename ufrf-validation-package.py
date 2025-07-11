@@ -1,3 +1,10 @@
+"""
+Copyright (c) 2025 Daniel Charbonneau. All rights reserved.
+
+UFRF Validation Package
+End-to-end validation suite for the Unified Fractal Resonance Framework.
+"""
+
 import json
 import numpy as np
 import matplotlib.pyplot as plt

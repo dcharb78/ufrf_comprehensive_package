@@ -37,4 +37,6 @@ ufrf_report.json
 
 # Misc
 *.swp
-*~ 
+*~
+
+# Note: AI_TRAINING_PROHIBITED.md and robots.txt are intentionally tracked 

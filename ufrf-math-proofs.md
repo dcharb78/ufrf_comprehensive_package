@@ -1,3 +1,5 @@
+# Copyright (c) 2025 Daniel Charbonneau. All rights reserved.
+
 # UFRF Mathematical Proofs
 
 ## Proof of Harmonic Sync Points

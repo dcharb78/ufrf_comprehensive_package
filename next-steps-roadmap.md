@@ -1,3 +1,4 @@
+# Copyright (c) 2025 Daniel Charbonneau. All rights reserved.
 
 # UFRF: Immediate Next Steps (Q3 2025)
 

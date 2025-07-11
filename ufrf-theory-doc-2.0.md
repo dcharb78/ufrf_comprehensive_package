@@ -1,4 +1,6 @@
-# Universal Field Resonance Framework (UFRF) Theory Document v2.0
+# Copyright (c) 2025 Daniel Charbonneau. All rights reserved.
+
+# Unified Fractal Resonance Framework (UFRF) Theory Document v2.0
 
 ## Introduction
 The UFRF unifies mathematics, music, and geometry through harmonic resonance principles applied to Fibonacci primes and tesseracts.

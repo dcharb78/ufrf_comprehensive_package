@@ -1,5 +1,7 @@
 
 """Enhanced Triadic Interference Prototype
+Copyright (c) 2025 Daniel Charbonneau. All rights reserved.
+
 Author : UFRF Team
 Date   : 2025-07-10
 

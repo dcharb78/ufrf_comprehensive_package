@@ -1,4 +1,6 @@
 """
+Copyright (c) 2025 Daniel Charbonneau. All rights reserved.
+
 UFRF Quick Test Script
 Performs basic sanity checks on key UFRF concepts.
 """
